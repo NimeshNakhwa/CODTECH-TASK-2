@@ -9,6 +9,10 @@ It Fetch weather data from a public API like OpenWeatherMap.
 It Display current weather conditions, including temperature, humidity, and wind speed.
 
 Here is an Image of the app.
+
+
+
+
 ![Weather App](https://github.com/user-attachments/assets/677f630f-fdfa-4f5c-9fe4-14e6dbcc0745)
 
 
